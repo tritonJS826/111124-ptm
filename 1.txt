@@ -3,6 +3,7 @@ first line
 echo "Дарова!)))"
 func() {..
 	super
+	addedUserHandler()
 	..
 	code
 }
